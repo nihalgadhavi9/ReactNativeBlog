@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "213658010129",
+    "project_id": "reactnativeblog-d36fc",
+    "storage_bucket": "reactnativeblog-d36fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213658010129:android:4b9f84383ccf8215dc27b0",
+        "android_client_info": {
+          "package_name": "com.reactnativeblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213658010129-1c62n624ndmkn4j06rneon94s3rocsd6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCId4Kuvu6Dx1CsZ_hdzBoWkktdbAcj40E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213658010129-1c62n624ndmkn4j06rneon94s3rocsd6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
